@@ -1,0 +1,7 @@
+table{
+    border: 1px solid black;
+    font-size: large;
+}
+tr, td {
+    padding: 3px;
+}

@@ -1,0 +1,11 @@
+#imgGrande{
+    float: left;
+    width: 50%;
+}
+#imagenes{
+    float: right;
+    width: 50%;
+}
+.img{
+    height: 195px;
+}
